@@ -40,6 +40,10 @@ def clean_node(self):
 >创建结点是会发现label需要传参，那么label到底是什么呢?在neo4j中不存在表的概念，可以把label当作表,
 相当于在创建多个结点时，指定其为同一label，就类似于为这几个结点(关系型数据库中类似与字段)储存到一张表中。
 
+为了更好的描述疾病、药物等的构建,参考以下ER图进行构建
+
+![](http://p20tr36iw.bkt.clouddn.com/rela.png)
+
 ```python
 from py2neo import Node
 def create_node(self):
