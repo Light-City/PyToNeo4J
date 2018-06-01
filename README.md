@@ -168,7 +168,7 @@ def create_Rel(self):
 
 ### 上述代码全部封装在createBHPData类中，需要实例化对象，然后调用相应方法。
 
-````python
+```python
 c=createBHPData()
 c.clean_node()
 c.create_node()
