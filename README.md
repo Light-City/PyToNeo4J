@@ -1,8 +1,6 @@
-![](http://p20tr36iw.bkt.clouddn.com/graph.jpg)
-
 # Python操作知识图谱数据库
-
 ------
+![](http://p20tr36iw.bkt.clouddn.com/graph.jpg)
 
 ## 1.安装Neo4J
 
