@@ -26,7 +26,7 @@ pip install py2neo
 from py2neo import Graph
 def __init__(self):
     # 建立连接
-    link = Graph("http://localhost:7474", username="neo4j", password="0312")
+    link = Graph("http://localhost:7474", username="neo4j", password="***")
     self.graph=link
 
 ```
