@@ -2,6 +2,9 @@
 ------
 ![](http://p20tr36iw.bkt.clouddn.com/graph.jpg)
 
+```python
+pip install py2neo==2.0.8
+``
 ## 1.安装Neo4J
 
 ### 官网下载Neo4J的zip包，然后解压，将neo4j_path/bin配入path中，进入bin目录运行
